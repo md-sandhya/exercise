@@ -1,1 +1,0 @@
-This is a renaming and deleting a file exercise.
